@@ -1,1 +1,1 @@
-# crypto-tweet-sentiment
+# mail-sentiment
